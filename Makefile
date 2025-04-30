@@ -18,6 +18,11 @@ autograde: Maps.vo Imp.vo Hoare.vo
 	coqc -Q . PLF ImpTest.v
 	coqc -Q . PLF HoareTest.v
 
+turnin:
+	git add .
+	git commit -m "turnin"
+	git push -u origin main
+
 -include Makefile.coq
 
 .PHONY: build clean
