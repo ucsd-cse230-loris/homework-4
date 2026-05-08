@@ -20,7 +20,3 @@ You can submit the assignment by running
 $ make turnin
 ```
 You may submit as often as you like. We will grade the latest submission at the assignment due date. 
-
-
-## Research
-During this quarter we will collect fine-grained information of edits you make to the `.v` files in your assignments. We will use this information in the development of tools for the Coq theorem prover. You can find out more by looking at the [information sheet](InformationSheet.pdf) in this repo. This data will be kept private, besides its use by Saketh Kasibatla (one of the course TAs), Sorin Lerner, and their immediate collaborators. If at any point you would like to be removed from the study, please notify Saketh Kasibatla (skasibatla@ucsd.edu). 
